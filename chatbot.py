@@ -9,7 +9,7 @@ pairs = [
     ["ciao", ["Ciao!", "Come posso aiutarti?"]],
     ["come ti chiami?", ["Mi chiamo .... Bot.", "Sono un bot di.... ."]],
     ["come stai?", ["Sto bene.", "Ho la susta.", "Sto Male."]],
-    ["chi è il tuo creatore?", ["Sono stato creato da Giannetto.", "Il mio creatore è...."]],
+    ["chi è il tuo creatore?", ["Sono stato creato da ......", "Il mio creatore è...."]],
     ["cosa puoi fare?", ["..... non mi ha ancora programmato."]],
     ["uscita", ["Arrivederci!", "A presto!"]],
 ]
